@@ -1,18 +1,19 @@
-# Evclid-Design_solutions
-View [here](https://margaritadaynitcyna.github.io/Evclid-Design_solutions/)
+# Евклид - проектные системы
 
-- Adaptive landing page from 2560px to 320px.
+Посмотреть [здесь](https://margaritadaynitcyna.github.io/evclid-layout/)
 
-- Cross-browser compatibility tested in: Opera, Yandex, Chrome, Edge, Android.
+- Адаптивная одностраничная вёрстка от 2560px до 320px.
 
-- Used by "swiper-bundle" for swiper (picture slider).
+- Кроссбраузерность проверена в: Opera, Яндекс, Chrome, Edge, Android.
 
-- Used "jquery-ui" for accordion in FAQ.
+- Используется "swiper-bundle" для слайдера изображений.
 
-- Opening and closing a burger menu in JS.
+- Использован "jquery-ui" для аккордеона в FAQ.
 
-- Tabs in How we work in JS.
+- Открытие и закрытие бургер-меню в JS.
 
-- Semantically correct markup using BEM methodology.
+- Вкладки в "Как мы работаем" реализованы на JS.
 
-- All states of interactive elements are implemented (with animation smoothness).
+- Семантически корректная разметка по методологии БЭМ.
+
+- Реализованы все состояния интерактивных элементов (с плавностью анимации).
